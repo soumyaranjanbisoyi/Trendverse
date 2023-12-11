@@ -11,7 +11,7 @@ from datetime import datetime, timedelta
 # import requests
 from newsapi import NewsApiClient
 
-client = OpenAI(api_key = "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")
+client = OpenAI(api_key = "sk-")
 
 
 
